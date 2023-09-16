@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Intel, sans-serif;
+  font-family: Inter, sans-serif;
   font-weight: 400;
   background-color: #1e1e1e;
 }
@@ -12,7 +12,6 @@ h4,
 h5,
 h6,
 p,
-ul,
 ul,
 ol,
 blockquote {
